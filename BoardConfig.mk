@@ -156,6 +156,7 @@ TARGET_RECOVERY_FSTAB := device/samsung/nevisvess/recovery/fstab.rhea_ss_nevisve
 BOARD_MDPI_RECOVERY := true
 BOARD_USE_CUSTOM_RECOVERY_FONT := "<font_7x16.h>"
 BOARD_CUSTOM_RECOVERY_KEYMAPPING := ../../device/samsung/nevisvess/recovery/recovery_keys.c
+RECOVERY_VARIANT := twrp
 TARGET_RECOVERY_PIXEL_FORMAT := "BGRA_8888"
 
 # Vold
