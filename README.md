@@ -12,7 +12,7 @@ All the patches that we used are located in the patches folder.
 ==============================================
 
 
-Credits on alphabetical order; 
+Credits ; 
 
 1. Dhinesh77
 2. Karthick111
@@ -20,4 +20,5 @@ Credits on alphabetical order;
 4. pawitp
 5. Unjustified Dev
 6. Xenon92
+7. h2aroon
 ==============================================
