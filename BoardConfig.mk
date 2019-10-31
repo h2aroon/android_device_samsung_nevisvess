@@ -55,9 +55,7 @@ HTTP := chrome
 TARGET_FORCE_CPU_UPLOAD := true
 
 # FM Radio
-BOARD_HAVE_FM_RADIO := true
-BOARD_FM_DEVICE := bcm4330
-BOARD_GLOBAL_CFLAGS += -DHAVE_FM_RADIO
+BOARD_HAVE_FM_RADIO := false
 
 # Touch screen compatibility for JB
 BOARD_USE_LEGACY_TOUCHSCREEN := true
