@@ -45,10 +45,6 @@ PRODUCT_COPY_FILES += \
         device/samsung/nevisvess/prebuilt/media_codecs.xml:system/etc/media_codecs.xml \
         device/samsung/nevisvess/prebuilt/media_profiles.xml:system/etc/media_profiles.xml
 
-# Multisim-toggle app © Shubhang Rathore
-PRODUCT_COPY_FILES += \
-        device/samsung/nevisvess/multisim/MultiSIM-Toggle.apk:system/app/MultiSIM-Toggle.apk
-
 # Prebuilt kl keymaps
 PRODUCT_COPY_FILES += \
 	device/samsung/nevisvess/keylayouts/bcm_headset.kl:system/usr/keylayout/bcm_headset.kl \
